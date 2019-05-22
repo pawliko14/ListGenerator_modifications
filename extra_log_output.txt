@@ -1,0 +1,1154 @@
+14:29
+z partsoverview: 10/2017 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+10/2017    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 14/130584 data zadana Marketing: 2013-10-30  data konca montazu: 2017-11-30  dataProdukcji:2017-11-30  dataKontrakt:2013-10-30
+2018-02-28
+14/130584    true
+2017-11-30   2017-11-30
+update
+z partsoverview: 14/160800 data zadana Marketing: 2016-03-25  data konca montazu: 2017-05-16  dataProdukcji:2017-05-16  dataKontrakt:2016-03-25
+2018-02-28
+14/160800    true
+2017-05-16   2017-05-16
+update
+z partsoverview: 14/160801 data zadana Marketing: 2016-03-25  data konca montazu: 2017-05-16  dataProdukcji:2017-05-16  dataKontrakt:2016-03-25
+2018-02-28
+14/160801    true
+2017-05-16   2017-05-16
+update
+z partsoverview: 14/20100533 data zadana Marketing:   data konca montazu: 2018-01-17  dataProdukcji:2018-01-17  dataKontrakt:
+2018-02-28
+14/20100533    true
+2018-01-17   2018-01-17
+update
+z partsoverview: 14/20200810 data zadana Marketing:   data konca montazu: 2017-12-20  dataProdukcji:2017-12-20  dataKontrakt:
+2018-02-28
+14/20200810    true
+2017-12-20   2017-12-20
+update
+z partsoverview: 14/203003208 data zadana Marketing:   data konca montazu: 2018-03-09  dataProdukcji:2018-03-09  dataKontrakt:
+2018-02-28
+14/203003208    true
+2018-03-09   2018-03-09
+update
+z partsoverview: 14/20500324 data zadana Marketing:   data konca montazu: 2018-03-02  dataProdukcji:2018-03-02  dataKontrakt:
+2018-02-28
+14/20500324    true
+2018-03-02   2018-03-02
+update
+z partsoverview: 14/2050178 data zadana Marketing:   data konca montazu: 2017-09-30  dataProdukcji:2017-09-30  dataKontrakt:
+2018-02-28
+14/2050178    true
+2017-09-30   2017-09-30
+update
+z partsoverview: 14/2050371 data zadana Marketing:   data konca montazu: 2018-02-19  dataProdukcji:2018-02-19  dataKontrakt:
+2018-02-28
+14/2050371    true
+2018-02-19   2018-02-19
+update
+z partsoverview: 14/207002184 data zadana Marketing:   data konca montazu: 2018-02-19  dataProdukcji:2018-02-19  dataKontrakt:
+2018-02-28
+14/207002184    true
+2018-02-19   2018-02-19
+update
+z partsoverview: 14/2070105 data zadana Marketing:   data konca montazu: 2018-01-09  dataProdukcji:2018-01-09  dataKontrakt:
+2018-02-28
+14/2070105    true
+2018-01-09   2018-01-09
+update
+z partsoverview: 14/212002250 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+14/212002250    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 14/21400986 data zadana Marketing:   data konca montazu: 2018-01-04  dataProdukcji:2018-01-04  dataKontrakt:
+2018-02-28
+14/21400986    true
+2018-01-04   2018-01-04
+update
+z partsoverview: 14/21400988 data zadana Marketing:   data konca montazu: 2018-02-19  dataProdukcji:2018-02-19  dataKontrakt:
+2018-02-28
+14/21400988    true
+2018-02-19   2018-02-19
+update
+z partsoverview: 14/21400989 data zadana Marketing:   data konca montazu: 2018-03-26  dataProdukcji:2018-03-26  dataKontrakt:
+2018-02-28
+14/21400989    true
+2018-03-26   2018-03-26
+update
+z partsoverview: 14/21601554 data zadana Marketing:   data konca montazu: 2017-08-31  dataProdukcji:2017-08-31  dataKontrakt:
+2018-02-28
+14/21601554    true
+2017-08-31   2017-08-31
+update
+z partsoverview: 14/2180146 data zadana Marketing:   data konca montazu: 2017-12-04  dataProdukcji:2017-12-04  dataKontrakt:
+2018-02-28
+14/2180146    true
+2017-12-04   2017-12-04
+update
+z partsoverview: 14/21900430 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+14/21900430    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 14/219005241 data zadana Marketing:   data konca montazu: 2018-03-05  dataProdukcji:2018-03-05  dataKontrakt:
+2018-02-28
+14/219005241    true
+2018-03-05   2018-03-05
+update
+z partsoverview: 14/21903411 data zadana Marketing:   data konca montazu: 2018-01-05  dataProdukcji:2017-01-05  dataKontrakt:
+2018-02-28
+14/21903411    true
+2017-01-05   2018-01-05
+update
+z partsoverview: 14/220002350 data zadana Marketing:   data konca montazu: 2017-11-24  dataProdukcji:2017-11-24  dataKontrakt:
+2018-02-28
+14/220002350    true
+2017-11-24   2017-11-24
+update
+z partsoverview: 14/2200393 data zadana Marketing:   data konca montazu: 2018-04-04  dataProdukcji:2018-04-04  dataKontrakt:
+2018-02-28
+14/2200393    true
+2018-04-04   2018-04-04
+update
+z partsoverview: 14/222001751 data zadana Marketing:   data konca montazu: 2018-01-29  dataProdukcji:2018-01-29  dataKontrakt:
+2018-02-28
+14/222001751    true
+2018-01-29   2018-01-29
+update
+z partsoverview: 14/2260139 data zadana Marketing:   data konca montazu: 2018-03-01  dataProdukcji:2018-03-01  dataKontrakt:
+2018-02-28
+14/2260139    true
+2018-03-01   2018-03-01
+update
+z partsoverview: 15/58 data zadana Marketing:   data konca montazu: 2015-12-31  dataProdukcji:2015-12-31  dataKontrakt:
+2018-02-28
+15/58    true
+2015-12-31   2015-12-31
+update
+z partsoverview: 15/59 data zadana Marketing:   data konca montazu: 2016-06-30  dataProdukcji:2016-06-30  dataKontrakt:
+2018-02-28
+15/59    true
+2016-06-30   2016-06-30
+update
+z partsoverview: 2/16051804 data zadana Marketing:   data konca montazu: 2017-12-04  dataProdukcji:2017-12-04  dataKontrakt:
+2018-02-28
+2/16051804    true
+2017-12-04   2017-12-04
+update
+z partsoverview: 2/16053106 data zadana Marketing:   data konca montazu: 2017-08-30  dataProdukcji:2017-08-30  dataKontrakt:
+2018-02-28
+2/16053106    true
+2017-08-30   2017-08-30
+update
+z partsoverview: 2/170007 data zadana Marketing: 2017-12-11  data konca montazu: 2018-01-22  dataProdukcji:2017-12-25  dataKontrakt:2018-01-31
+2018-02-28
+2/170007    true
+2017-12-25   2018-01-22
+update
+z partsoverview: 2/170503 data zadana Marketing: 2017-12-15  data konca montazu: 2018-02-19  dataProdukcji:2018-01-22  dataKontrakt:2018-01-31
+2018-02-28
+2/170503    true
+2018-01-22   2018-02-19
+update
+z partsoverview: 2/170520 data zadana Marketing: 2017-08-31  data konca montazu: 2018-02-28  dataProdukcji:2017-11-24  dataKontrakt:2017-08-31
+2018-02-28
+2/170520    true
+2017-11-24   2018-02-28
+update
+z partsoverview: 2/17052020 data zadana Marketing:   data konca montazu: 2017-12-22  dataProdukcji:2017-11-24  dataKontrakt:
+2018-02-28
+2/17052020    true
+2017-11-24   2017-12-22
+update
+z partsoverview: 2/170530 data zadana Marketing: 2018-02-14  data konca montazu: 2018-03-12  dataProdukcji:2018-02-07  dataKontrakt:2018-02-14
+2018-02-28
+2/170530    true
+2018-02-07   2018-03-12
+update
+z partsoverview: 2/170549 data zadana Marketing: 2017-11-30  data konca montazu: 2018-02-12  dataProdukcji:2018-01-15  dataKontrakt:2018-02-20
+2018-02-28
+2/170549    true
+2018-01-15   2018-02-12
+update
+z partsoverview: 2/170550 data zadana Marketing: 2017-11-30  data konca montazu: 2018-02-20  dataProdukcji:2018-01-23  dataKontrakt:2018-02-28
+2018-02-28
+2/170550    true
+2018-01-23   2018-02-20
+update
+z partsoverview: 2/170554 data zadana Marketing: 2017-12-11  data konca montazu: 2018-02-08  dataProdukcji:2018-01-11  dataKontrakt:2018-02-12
+2018-02-28
+2/170554    true
+2018-01-11   2018-02-08
+update
+z partsoverview: 2/170555 data zadana Marketing: 2018-01-31  data konca montazu: 2018-03-30  dataProdukcji:2018-03-02  dataKontrakt:2018-02-28
+2018-02-28
+2/170555    true
+2018-03-02   2018-03-30
+update
+z partsoverview: 2/170556 data zadana Marketing: 2018-01-31  data konca montazu: 2018-04-23  dataProdukcji:2018-03-26  dataKontrakt:2018-02-28
+2018-02-28
+2/170556    true
+2018-03-26   2018-04-23
+update
+z partsoverview: 2/170557 data zadana Marketing: 2018-03-30  data konca montazu: 2018-03-30  dataProdukcji:2018-03-02  dataKontrakt:2018-04-30
+2018-02-28
+2/170557    true
+2018-03-02   2018-03-30
+update
+z partsoverview: 2/17055701 data zadana Marketing:   data konca montazu: 2018-03-30  dataProdukcji:2018-03-30  dataKontrakt:
+2018-02-28
+2/17055701    true
+2018-03-30   2018-03-30
+update
+z partsoverview: 2/170558 data zadana Marketing: 2017-12-29  data konca montazu: 2018-02-12  dataProdukcji:2018-01-15  dataKontrakt:2018-02-12
+2018-02-28
+2/170558    true
+2018-01-15   2018-02-12
+update
+z partsoverview: 2/170559 data zadana Marketing: 2017-12-29  data konca montazu: 2018-02-20  dataProdukcji:2018-01-23  dataKontrakt:2018-01-31
+2018-02-28
+2/170559    true
+2018-01-23   2018-02-20
+update
+z partsoverview: 2/170560 data zadana Marketing: 2017-12-21  data konca montazu: 2018-02-20  dataProdukcji:2018-01-23  dataKontrakt:2018-02-27
+2018-02-28
+2/170560    true
+2018-01-23   2018-02-20
+update
+z partsoverview: 2/170701 data zadana Marketing: 2017-11-10  data konca montazu: 2018-02-26  dataProdukcji:2018-01-29  dataKontrakt:2017-11-30
+2018-02-28
+2/170701    true
+2018-01-29   2018-02-26
+update
+z partsoverview: 2/170801 data zadana Marketing: 2017-09-10  data konca montazu: 2018-01-24  dataProdukcji:2017-12-20  dataKontrakt:2017-09-10
+2018-02-28
+2/170801    true
+2017-12-20   2018-01-24
+update
+z partsoverview: 2/170803 data zadana Marketing: 2017-12-29  data konca montazu: 2018-03-26  dataProdukcji:2018-02-26  dataKontrakt:2018-01-31
+2018-02-28
+2/170803    true
+2018-02-26   2018-03-26
+update
+z partsoverview: 2/180001 data zadana Marketing: 2018-02-15  data konca montazu: 2018-02-21  dataProdukcji:2018-01-24  dataKontrakt:2018-02-28
+2018-02-28
+2/180001    true
+2018-01-24   2018-02-21
+update
+z partsoverview: 2/180003 data zadana Marketing: 2018-04-16  data konca montazu: 2018-04-16  dataProdukcji:2018-03-12  dataKontrakt:2018-04-16
+2018-02-28
+2/180003    true
+2018-03-12   2018-04-16
+update
+z partsoverview: 2/180004 data zadana Marketing: 2018-05-31  data konca montazu: 2018-06-05  dataProdukcji:2018-05-08  dataKontrakt:2018-09-28
+2018-02-28
+2/180004    true
+2018-05-08   2018-06-05
+update
+z partsoverview: 2/180005 data zadana Marketing: 2018-05-31  data konca montazu: 2018-06-05  dataProdukcji:2018-05-08  dataKontrakt:2018-09-28
+2018-02-28
+2/180005    true
+2018-05-08   2018-06-05
+update
+z partsoverview: 2/180500 data zadana Marketing: 2018-01-10  data konca montazu: 2018-02-19  dataProdukcji:2018-01-22  dataKontrakt:2018-01-31
+2018-02-28
+2/180500    true
+2018-01-22   2018-02-19
+update
+z partsoverview: 2/180501 data zadana Marketing: 2018-03-15  data konca montazu: 2018-03-15  dataProdukcji:2018-02-15  dataKontrakt:2018-03-30
+2018-02-28
+2/180501    true
+2018-02-15   2018-03-15
+update
+z partsoverview: 2/180502 data zadana Marketing: 2018-01-15  data konca montazu: 2018-03-30  dataProdukcji:2018-03-02  dataKontrakt:2018-01-31
+2018-02-28
+2/180502    true
+2018-03-02   2018-03-30
+update
+z partsoverview: 2/180503 data zadana Marketing: 2018-01-15  data konca montazu: 2018-02-28  dataProdukcji:2018-01-31  dataKontrakt:2018-02-05
+2018-02-28
+2/180503    true
+2018-01-31   2018-02-28
+update
+z partsoverview: 2/180504 data zadana Marketing: 2018-01-31  data konca montazu: 2018-03-22  dataProdukcji:2018-02-22  dataKontrakt:2018-02-28
+2018-02-28
+2/180504    true
+2018-02-22   2018-03-22
+update
+z partsoverview: 2/180507 data zadana Marketing: 2018-02-28  data konca montazu: 2018-04-20  dataProdukcji:2018-03-23  dataKontrakt:2018-03-20
+2018-02-28
+2/180507    true
+2018-03-23   2018-04-20
+update
+z partsoverview: 2/180508 data zadana Marketing: 2018-04-10  data konca montazu: 2018-03-31  dataProdukcji:2018-02-28  dataKontrakt:2018-04-30
+2018-02-28
+2/180508    true
+2018-02-28   2018-03-31
+update
+z partsoverview: 2/180512 data zadana Marketing: 2018-05-15  data konca montazu: 2018-05-15  dataProdukcji:2018-04-15  dataKontrakt:2018-05-31
+2018-02-28
+2/180512    true
+2018-04-15   2018-05-15
+update
+z partsoverview: 2/180514 data zadana Marketing: 2018-03-30  data konca montazu: 2018-03-30  dataProdukcji:2018-03-02  dataKontrakt:2018-03-30
+2018-02-28
+2/180514    true
+2018-03-02   2018-03-30
+update
+z partsoverview: 2/180519 data zadana Marketing: 2018-04-02  data konca montazu: 2018-04-05  dataProdukcji:2018-03-08  dataKontrakt:2018-03-30
+2018-02-28
+2/180519    true
+2018-03-08   2018-04-05
+update
+z partsoverview: 2/180521 data zadana Marketing: 2018-03-23  data konca montazu: 2018-03-23  dataProdukcji:2018-02-23  dataKontrakt:2018-03-16
+2018-02-28
+2/180521    true
+2018-02-23   2018-03-23
+update
+z partsoverview: 2/180522 data zadana Marketing: 2018-03-23  data konca montazu: 2018-03-23  dataProdukcji:2018-02-23  dataKontrakt:2018-03-16
+2018-02-28
+2/180522    true
+2018-02-23   2018-03-23
+update
+z partsoverview: 2/180523 data zadana Marketing: 2018-04-19  data konca montazu: 2018-04-20  dataProdukcji:2018-03-23  dataKontrakt:2018-04-19
+2018-02-28
+2/180523    true
+2018-03-23   2018-04-20
+update
+z partsoverview: 2/180524 data zadana Marketing: 2018-04-02  data konca montazu: 2018-04-12  dataProdukcji:2018-03-15  dataKontrakt:2018-04-16
+2018-02-28
+2/180524    true
+2018-03-15   2018-04-12
+update
+z partsoverview: 2/180526 data zadana Marketing: 2018-03-09  data konca montazu: 2018-03-09  dataProdukcji:2018-02-09  dataKontrakt:2018-03-09
+2018-02-28
+2/180526    true
+2018-02-09   2018-03-09
+update
+z partsoverview: 2/180527 data zadana Marketing: 2018-04-30  data konca montazu: 2018-04-27  dataProdukcji:2018-03-30  dataKontrakt:2018-05-31
+2018-02-28
+2/180527    true
+2018-03-30   2018-04-27
+update
+z partsoverview: 2/180528 data zadana Marketing: 2018-05-15  data konca montazu: 2018-05-15  dataProdukcji:2018-04-15  dataKontrakt:2018-05-31
+2018-02-28
+2/180528    true
+2018-04-15   2018-05-15
+update
+z partsoverview: 2/180529 data zadana Marketing: 2018-05-10  data konca montazu: 2018-05-28  dataProdukcji:2018-04-30  dataKontrakt:2018-05-31
+2018-02-28
+2/180529    true
+2018-04-30   2018-05-28
+update
+z partsoverview: 2/180530 data zadana Marketing: 2018-05-21  data konca montazu: 2018-05-21  dataProdukcji:2018-04-20  dataKontrakt:2018-05-31
+2018-02-28
+2/180530    true
+2018-04-20   2018-05-21
+update
+z partsoverview: 2/180532 data zadana Marketing: 2018-09-15  data konca montazu: 2018-09-15  dataProdukcji:2018-08-15  dataKontrakt:2018-09-15
+2018-02-28
+2/180532    true
+2018-08-15   2018-09-15
+update
+z partsoverview: 2/180536 data zadana Marketing: 2018-01-19  data konca montazu: 2018-01-19  dataProdukcji:2017-12-22  dataKontrakt:2018-01-19
+2018-02-28
+2/180536    true
+2017-12-22   2018-01-19
+update
+z partsoverview: 2/180537 data zadana Marketing: 2018-06-15  data konca montazu: 2018-06-15  dataProdukcji:2018-05-18  dataKontrakt:2018-06-29
+2018-02-28
+2/180537    true
+2018-05-18   2018-06-15
+update
+z partsoverview: 2/180538 data zadana Marketing: 2018-05-17  data konca montazu: 2018-05-21  dataProdukcji:2018-04-23  dataKontrakt:2018-05-31
+2018-02-28
+2/180538    true
+2018-04-23   2018-05-21
+update
+z partsoverview: 2/180703 data zadana Marketing: 2018-04-13  data konca montazu: 2018-03-15  dataProdukcji:2018-02-15  dataKontrakt:2018-03-30
+2018-02-28
+2/180703    true
+2018-02-15   2018-03-15
+update
+z partsoverview: 2/180704 data zadana Marketing: 2018-03-30  data konca montazu: 2018-03-30  dataProdukcji:2018-02-28  dataKontrakt:2018-03-30
+2018-02-28
+2/180704    true
+2018-02-28   2018-03-30
+update
+z partsoverview: 3/120 data zadana Marketing:   data konca montazu: 2016-10-31  dataProdukcji:2016-10-31  dataKontrakt:
+2018-02-28
+3/120    true
+2016-10-31   2016-10-31
+update
+z partsoverview: 30/2018 data zadana Marketing:   data konca montazu: 2018-12-31  dataProdukcji:2018-12-31  dataKontrakt:
+2018-02-28
+30/2018    true
+2018-12-31   2018-12-31
+update
+z partsoverview: 32/2017 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+32/2017    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 34/2017 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+34/2017    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 36/2017 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+36/2017    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 39/2017 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+39/2017    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 39/2018 data zadana Marketing:   data konca montazu: 2018-12-31  dataProdukcji:2018-12-31  dataKontrakt:
+2018-02-28
+39/2018    true
+2018-12-31   2018-12-31
+update
+z partsoverview: 4/624 data zadana Marketing:   data konca montazu: 2016-06-30  dataProdukcji:2016-06-30  dataKontrakt:
+2018-02-28
+4/624    true
+2016-06-30   2016-06-30
+update
+z partsoverview: 4/645 data zadana Marketing:   data konca montazu: 2016-11-18  dataProdukcji:2016-11-18  dataKontrakt:
+2018-02-28
+4/645    true
+2016-11-18   2016-11-18
+update
+z partsoverview: 4/647 data zadana Marketing:   data konca montazu: 2016-11-21  dataProdukcji:2016-11-21  dataKontrakt:
+2018-02-28
+4/647    true
+2016-11-21   2016-11-21
+update
+z partsoverview: 4/648 data zadana Marketing:   data konca montazu: 2016-11-21  dataProdukcji:2016-11-21  dataKontrakt:
+2018-02-28
+4/648    true
+2016-11-21   2016-11-21
+update
+z partsoverview: 4/676 data zadana Marketing:   data konca montazu: 2017-04-28  dataProdukcji:2017-04-28  dataKontrakt:
+2018-02-28
+4/676    true
+2017-04-28   2017-04-28
+update
+z partsoverview: 4/679 data zadana Marketing:   data konca montazu: 2017-05-10  dataProdukcji:2017-05-10  dataKontrakt:
+2018-02-28
+4/679    true
+2017-05-10   2017-05-10
+update
+z partsoverview: 4/691 data zadana Marketing:   data konca montazu: 2017-07-10  dataProdukcji:2017-07-10  dataKontrakt:
+2018-02-28
+4/691    true
+2017-07-10   2017-07-10
+update
+z partsoverview: 4/695 data zadana Marketing:   data konca montazu: 2017-06-30  dataProdukcji:2017-06-30  dataKontrakt:
+2018-02-28
+4/695    true
+2017-06-30   2017-06-30
+update
+z partsoverview: 4/699 data zadana Marketing:   data konca montazu: 2017-07-07  dataProdukcji:2017-07-07  dataKontrakt:
+2018-02-28
+4/699    true
+2017-07-07   2017-07-07
+update
+z partsoverview: 4/700 data zadana Marketing:   data konca montazu: 2017-08-31  dataProdukcji:2017-08-31  dataKontrakt:
+2018-02-28
+4/700    true
+2017-08-31   2017-08-31
+update
+z partsoverview: 4/703 data zadana Marketing:   data konca montazu: 2017-09-30  dataProdukcji:2017-09-30  dataKontrakt:
+2018-02-28
+4/703    true
+2017-09-30   2017-09-30
+update
+z partsoverview: 4/704 data zadana Marketing:   data konca montazu: 2017-07-21  dataProdukcji:2017-07-21  dataKontrakt:
+2018-02-28
+4/704    true
+2017-07-21   2017-07-21
+update
+z partsoverview: 4/713 data zadana Marketing:   data konca montazu: 2017-11-30  dataProdukcji:2017-11-30  dataKontrakt:
+2018-02-28
+4/713    true
+2017-11-30   2017-11-30
+update
+z partsoverview: 4/714 data zadana Marketing:   data konca montazu: 2017-10-10  dataProdukcji:2017-10-10  dataKontrakt:
+2018-02-28
+4/714    true
+2017-10-10   2017-10-10
+update
+z partsoverview: 4/716 data zadana Marketing:   data konca montazu: 2018-01-15  dataProdukcji:2018-01-15  dataKontrakt:
+2018-02-28
+4/716    true
+2018-01-15   2018-01-15
+update
+z partsoverview: 4/718 data zadana Marketing:   data konca montazu: 2017-12-12  dataProdukcji:2017-12-12  dataKontrakt:
+2018-02-28
+4/718    true
+2017-12-12   2017-12-12
+update
+z partsoverview: 4/719 data zadana Marketing:   data konca montazu: 2017-12-20  dataProdukcji:2017-12-20  dataKontrakt:
+2018-02-28
+4/719    true
+2017-12-20   2017-12-20
+update
+z partsoverview: 4/720 data zadana Marketing:   data konca montazu: 2017-12-11  dataProdukcji:2017-12-11  dataKontrakt:
+2018-02-28
+4/720    true
+2017-12-11   2017-12-11
+update
+z partsoverview: 4/721 data zadana Marketing:   data konca montazu: 2017-12-08  dataProdukcji:2017-12-08  dataKontrakt:
+2018-02-28
+4/721    true
+2017-12-08   2017-12-08
+update
+z partsoverview: 4/722 data zadana Marketing:   data konca montazu: 2018-01-03  dataProdukcji:2018-01-03  dataKontrakt:
+2018-02-28
+4/722    true
+2018-01-03   2018-01-03
+update
+z partsoverview: 4/723 data zadana Marketing:   data konca montazu: 2018-01-03  dataProdukcji:2018-01-03  dataKontrakt:
+2018-02-28
+4/723    true
+2018-01-03   2018-01-03
+update
+z partsoverview: 4/725 data zadana Marketing:   data konca montazu: 2018-01-05  dataProdukcji:2018-01-05  dataKontrakt:
+2018-02-28
+4/725    true
+2018-01-05   2018-01-05
+update
+z partsoverview: 4/726 data zadana Marketing:   data konca montazu: 2018-01-12  dataProdukcji:2018-01-12  dataKontrakt:
+2018-02-28
+4/726    true
+2018-01-12   2018-01-12
+update
+z partsoverview: 4/727 data zadana Marketing:   data konca montazu: 2018-01-12  dataProdukcji:2018-01-12  dataKontrakt:
+2018-02-28
+4/727    true
+2018-01-12   2018-01-12
+update
+z partsoverview: 4/728 data zadana Marketing:   data konca montazu: 2018-01-12  dataProdukcji:2018-01-12  dataKontrakt:
+2018-02-28
+4/728    true
+2018-01-12   2018-01-12
+update
+z partsoverview: 4/729 data zadana Marketing:   data konca montazu: 2017-12-21  dataProdukcji:2017-12-21  dataKontrakt:
+2018-02-28
+4/729    true
+2017-12-21   2017-12-21
+update
+z partsoverview: 4/730 data zadana Marketing:   data konca montazu: 2018-01-31  dataProdukcji:2018-01-31  dataKontrakt:
+2018-02-28
+4/730    true
+2018-01-31   2018-01-31
+update
+z partsoverview: 4/731 data zadana Marketing:   data konca montazu: 2018-01-31  dataProdukcji:2018-01-31  dataKontrakt:
+2018-02-28
+4/731    true
+2018-01-31   2018-01-31
+update
+z partsoverview: 4/733 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+4/733    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 4/734 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+4/734    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 4/735 data zadana Marketing:   data konca montazu: 2018-01-31  dataProdukcji:2018-01-31  dataKontrakt:
+2018-02-28
+4/735    true
+2018-01-31   2018-01-31
+update
+z partsoverview: 4/736 data zadana Marketing:   data konca montazu: 2018-01-31  dataProdukcji:2018-01-31  dataKontrakt:
+2018-02-28
+4/736    true
+2018-01-31   2018-01-31
+update
+z partsoverview: 4/737 data zadana Marketing:   data konca montazu: 2018-03-16  dataProdukcji:2018-03-16  dataKontrakt:
+2018-02-28
+4/737    true
+2018-03-16   2018-03-16
+update
+z partsoverview: 4/738 data zadana Marketing:   data konca montazu: 2018-04-20  dataProdukcji:2018-04-20  dataKontrakt:
+2018-02-28
+4/738    true
+2018-04-20   2018-04-20
+update
+z partsoverview: 4/739 data zadana Marketing:   data konca montazu: 2018-05-17  dataProdukcji:2018-05-17  dataKontrakt:
+2018-02-28
+4/739    true
+2018-05-17   2018-05-17
+update
+z partsoverview: 4/740 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+4/740    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 4/741 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+4/741    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 4/742 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+4/742    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 4/743 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+4/743    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 4/744 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+4/744    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 4/745 data zadana Marketing:   data konca montazu: 2018-02-28  dataProdukcji:2018-02-28  dataKontrakt:
+2018-02-28
+4/745    true
+2018-02-28   2018-02-28
+update
+z partsoverview: 4/746 data zadana Marketing:   data konca montazu: 2018-03-19  dataProdukcji:2018-03-19  dataKontrakt:
+2018-02-28
+4/746    true
+2018-03-19   2018-03-19
+update
+z partsoverview: 497/571 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+497/571    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 497/573 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+497/573    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 497/574 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+497/574    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 497/575 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+497/575    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 497/576 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+497/576    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 497/577 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+497/577    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 497/578 data zadana Marketing:   data konca montazu: 2017-12-31  dataProdukcji:2017-12-31  dataKontrakt:
+2018-02-28
+497/578    true
+2017-12-31   2017-12-31
+update
+z partsoverview: 5/15530 data zadana Marketing:   data konca montazu: 2017-12-30  dataProdukcji:2017-12-30  dataKontrakt:
+2018-02-28
+5/15530    true
+2017-12-30   2017-12-30
+update
+z partsoverview: 6/160504 data zadana Marketing:   data konca montazu: 2018-07-27  dataProdukcji:2018-06-29  dataKontrakt:
+2018-02-28
+6/160504    true
+2018-06-29   2018-07-27
+update
+z partsoverview: 6/160561 data zadana Marketing:   data konca montazu: 2018-07-23  dataProdukcji:2018-06-25  dataKontrakt:
+2018-02-28
+6/160561    true
+2018-06-25   2018-07-23
+update
+z partsoverview: 6/180002 data zadana Marketing: 2018-01-31  data konca montazu: 2018-07-09  dataProdukcji:2018-06-11  dataKontrakt:2018-01-31
+2018-02-28
+6/180002    true
+2018-06-11   2018-07-09
+update
+z partsoverview: 6/180505 data zadana Marketing: 2018-01-31  data konca montazu: 2018-05-25  dataProdukcji:2018-04-27  dataKontrakt:2018-01-31
+2018-02-28
+6/180505    true
+2018-04-27   2018-05-25
+update
+z partsoverview: 6/180506 data zadana Marketing: 2018-01-30  data konca montazu: 2018-07-16  dataProdukcji:2018-06-18  dataKontrakt:2018-01-30
+2018-02-28
+6/180506    true
+2018-06-18   2018-07-16
+update
+z partsoverview: 6/180509 data zadana Marketing: 2018-01-30  data konca montazu: 2018-09-03  dataProdukcji:2018-07-16  dataKontrakt:2018-01-30
+2018-02-28
+6/180509    true
+2018-07-16   2018-09-03
+update
+z partsoverview: 6/180511 data zadana Marketing: 2018-01-31  data konca montazu: 2018-07-02  dataProdukcji:2018-06-04  dataKontrakt:2018-01-31
+2018-02-28
+6/180511    true
+2018-06-04   2018-07-02
+update
+z partsoverview: 6/180513 data zadana Marketing: 2018-01-31  data konca montazu: 2018-09-10  dataProdukcji:2018-07-23  dataKontrakt:2018-01-31
+2018-02-28
+6/180513    true
+2018-07-23   2018-09-10
+update
+z partsoverview: 6/180515 data zadana Marketing: 2018-02-28  data konca montazu: 2018-06-11  dataProdukcji:2018-05-14  dataKontrakt:2018-02-28
+2018-02-28
+6/180515    true
+2018-05-14   2018-06-11
+update
+z partsoverview: 6/180525 data zadana Marketing: 2018-03-30  data konca montazu: 2018-04-30  dataProdukcji:2018-04-02  dataKontrakt:2018-03-30
+2018-02-28
+6/180525    true
+2018-04-02   2018-04-30
+update
+z partsoverview: 6/180533 data zadana Marketing: 2018-05-31  data konca montazu: 2018-08-27  dataProdukcji:2018-07-09  dataKontrakt:2018-05-31
+2018-02-28
+6/180533    true
+2018-07-09   2018-08-27
+update
+z werkbon: 15/59 opis po:FREZARKA BRAMOWA FBA325 (DTI)
+z werkbon: 15/59 datadostarSprz:   data dostarProd: 2016-06-30  data plan:2016-06-30  dataKontrakt:
+z werkbon: 4/624 opis po:ELAS 30038/35
+z werkbon: 4/624 datadostarSprz:   data dostarProd: 2016-06-30  data plan:2016-06-30  dataKontrakt:
+z werkbon: 3/120 opis po:WYKRAWARKA DO NAROZY COMBI
+z werkbon: 3/120 datadostarSprz:   data dostarProd: 2016-10-31  data plan:2016-10-31  dataKontrakt:
+z werkbon: 4/645 opis po:ELAS 30038/37
+z werkbon: 4/645 datadostarSprz:   data dostarProd: 2016-11-18  data plan:2016-11-18  dataKontrakt:
+z werkbon: 4/647 opis po:MUBEA-67050/55
+z werkbon: 4/647 datadostarSprz:   data dostarProd: 2016-11-21  data plan:2016-11-21  dataKontrakt:
+z werkbon: 4/648 opis po:MUBEA-67050/56
+z werkbon: 4/648 datadostarSprz:   data dostarProd: 2016-11-21  data plan:2016-11-21  dataKontrakt:
+z werkbon: 14/2050174 opis po:
+z werkbon: 14/2050174 datadostarSprz:   data dostarProd: 2016-12-31  data plan:2016-12-31  dataKontrakt:
+z werkbon: 4/2017 opis po:
+z werkbon: 4/2017 datadostarSprz:   data dostarProd: 2017-03-08  data plan:2017-03-08  dataKontrakt:
+z werkbon: 4/677 opis po:
+z werkbon: 4/677 datadostarSprz:   data dostarProd: 2017-03-28  data plan:2017-03-28  dataKontrakt:
+z werkbon: 4/676 opis po:DTI 17/02/2017/H
+z werkbon: 4/676 datadostarSprz:   data dostarProd: 2017-04-28  data plan:2017-04-28  dataKontrakt:
+z werkbon: 4/679 opis po:KINGSLAND 40324/4 - 7/201703028/44
+z werkbon: 4/679 datadostarSprz:   data dostarProd: 2017-05-10  data plan:2017-05-10  dataKontrakt:
+z werkbon: 14/160800 opis po:PILA DW-V2-200 - SERWIS
+z werkbon: 14/160800 datadostarSprz: 2016-03-25  data dostarProd: 2017-05-16  data plan:2017-05-16  dataKontrakt:2016-03-25
+z werkbon: 14/160801 opis po:PILA DW-V2-200 - SERWIS
+z werkbon: 14/160801 datadostarSprz: 2016-03-25  data dostarProd: 2017-05-16  data plan:2017-05-16  dataKontrakt:2016-03-25
+z werkbon: 4/695 opis po:KFM-106002/20
+z werkbon: 4/695 datadostarSprz:   data dostarProd: 2017-06-30  data plan:2017-06-30  dataKontrakt:
+z werkbon: 4/699 opis po:DTI-16/05/2017/H
+z werkbon: 4/699 datadostarSprz:   data dostarProd: 2017-07-07  data plan:2017-07-07  dataKontrakt:
+z werkbon: 4/691 opis po:SACASPZOO 106001/333
+z werkbon: 4/691 datadostarSprz:   data dostarProd: 2017-07-10  data plan:2017-07-10  dataKontrakt:
+z werkbon: 4/704 opis po:ELAS 30038/41
+z werkbon: 4/704 datadostarSprz:   data dostarProd: 2017-07-21  data plan:2017-07-21  dataKontrakt:
+z werkbon: 4/700 opis po:ELAS 30038/40
+z werkbon: 4/700 datadostarSprz:   data dostarProd: 2017-08-31  data plan:2017-08-31  dataKontrakt:
+z werkbon: 14/21601554 opis po:ZAM - 216015 / 54 PODTRZYMKA 300-500
+z werkbon: 14/21601554 datadostarSprz:   data dostarProd: 2017-08-31  data plan:2017-08-31  dataKontrakt:
+z werkbon: 4/703 opis po:DTI-06/06/2017/H
+z werkbon: 4/703 datadostarSprz:   data dostarProd: 2017-09-30  data plan:2017-09-30  dataKontrakt:
+z werkbon: 14/2050178 opis po:ZAM - 205017 / 8 - PODTRZYMKA
+z werkbon: 14/2050178 datadostarSprz:   data dostarProd: 2017-09-30  data plan:2017-09-30  dataKontrakt:
+z werkbon: 4/714 opis po:SACASPZOO 106001/341
+z werkbon: 4/714 datadostarSprz:   data dostarProd: 2017-10-10  data plan:2017-10-10  dataKontrakt:
+z werkbon: 14/220002344 opis po:
+z werkbon: 14/220002344 datadostarSprz:   data dostarProd: 2017-10-18  data plan:2017-10-18  dataKontrakt:
+z werkbon: 14/220002350 opis po:ZAM - 220002 / 350
+z werkbon: 14/220002350 datadostarSprz:   data dostarProd: 2017-11-24  data plan:2017-11-24  dataKontrakt:
+z werkbon: 14/130584 opis po:ZAM - 220002 / 347 WRZECIENNIK
+z werkbon: 14/130584 datadostarSprz: 2017-11-30  data dostarProd: 2017-11-30  data plan:2017-11-30  dataKontrakt:
+z werkbon: 4/713 opis po:KINGSLAND 15001/37 - 7/201709028/33
+z werkbon: 4/713 datadostarSprz:   data dostarProd: 2017-11-30  data plan:2017-11-30  dataKontrakt:
+z werkbon: 14/220002352 opis po:
+z werkbon: 14/220002352 datadostarSprz:   data dostarProd: 2017-11-30  data plan:2017-11-30  dataKontrakt:
+z werkbon: 14/2180146 opis po:ZAM - 218014 / 6
+z werkbon: 14/2180146 datadostarSprz:   data dostarProd: 2017-12-04  data plan:2017-12-04  dataKontrakt:
+z werkbon: 4/721 opis po:SACASPZOO 106001/347
+z werkbon: 4/721 datadostarSprz:   data dostarProd: 2017-12-08  data plan:2017-12-08  dataKontrakt:
+z werkbon: 4/720 opis po:SACASPZOO 106001/346
+z werkbon: 4/720 datadostarSprz:   data dostarProd: 2017-12-11  data plan:2017-12-11  dataKontrakt:
+z werkbon: 14/21800160 opis po:
+z werkbon: 14/21800160 datadostarSprz:   data dostarProd: 2017-12-11  data plan:2017-12-11  dataKontrakt:
+z werkbon: 4/718 opis po:BLISS BRET 106001/33
+z werkbon: 4/718 datadostarSprz:   data dostarProd: 2017-12-12  data plan:2017-12-12  dataKontrakt:
+z werkbon: 14/20200810 opis po:ZAM - 202008/10
+z werkbon: 14/20200810 datadostarSprz:   data dostarProd: 2017-12-20  data plan:2017-12-20  dataKontrakt:
+z werkbon: 4/719 opis po:KFM-106002/28
+z werkbon: 4/719 datadostarSprz:   data dostarProd: 2017-12-20  data plan:2017-12-20  dataKontrakt:
+z werkbon: 4/729 opis po:SACASPZOO 106001/354
+z werkbon: 4/729 datadostarSprz:   data dostarProd: 2017-12-21  data plan:2017-12-21  dataKontrakt:
+z werkbon: 2/17052020 opis po:CDM50CNC - CELSA DTI
+z werkbon: 2/17052020 datadostarSprz:   data dostarProd: 2017-12-22  data plan:2017-11-24  dataKontrakt:
+z werkbon: 14/21900430 opis po:ZAM - 219004 / 30 - PLASMA COMBICUT 4210
+z werkbon: 14/21900430 datadostarSprz:   data dostarProd: 2017-12-31  data plan:2017-12-31  dataKontrakt:
+z werkbon: 4/722 opis po:SACASPZOO 106001/348
+z werkbon: 4/722 datadostarSprz:   data dostarProd: 2018-01-03  data plan:2018-01-03  dataKontrakt:
+z werkbon: 4/723 opis po:SACASPZOO 106001/349
+z werkbon: 4/723 datadostarSprz:   data dostarProd: 2018-01-03  data plan:2018-01-03  dataKontrakt:
+z werkbon: 14/21400986 opis po:ZAM - 214009 / 86
+z werkbon: 14/21400986 datadostarSprz:   data dostarProd: 2018-01-04  data plan:2018-01-04  dataKontrakt:
+z werkbon: 14/21903411 opis po:ZAM - 219034 / 11
+z werkbon: 14/21903411 datadostarSprz:   data dostarProd: 2018-01-05  data plan:2017-01-05  dataKontrakt:
+z werkbon: 4/725 opis po:SACASPZOO 106001/350
+z werkbon: 4/725 datadostarSprz:   data dostarProd: 2018-01-05  data plan:2018-01-05  dataKontrakt:
+z werkbon: 14/2070105 opis po:ZAM.207010/5
+z werkbon: 14/2070105 datadostarSprz:   data dostarProd: 2018-01-09  data plan:2018-01-09  dataKontrakt:
+z werkbon: 4/726 opis po:SACASPZOO 106001/351
+z werkbon: 4/726 datadostarSprz:   data dostarProd: 2018-01-12  data plan:2018-01-12  dataKontrakt:
+z werkbon: 4/727 opis po:SACASPZOO 106001/352
+z werkbon: 4/727 datadostarSprz:   data dostarProd: 2018-01-12  data plan:2018-01-12  dataKontrakt:
+z werkbon: 4/728 opis po:SACASPZOO 106001/353
+z werkbon: 4/728 datadostarSprz:   data dostarProd: 2018-01-12  data plan:2018-01-12  dataKontrakt:
+z werkbon: 4/716 opis po:KINGSLAND 15001/38 - 7/201711028/28
+z werkbon: 4/716 datadostarSprz:   data dostarProd: 2018-01-15  data plan:2018-01-15  dataKontrakt:
+z werkbon: 14/20100533 opis po:ZAM - 201005 / 33
+z werkbon: 14/20100533 datadostarSprz:   data dostarProd: 2018-01-17  data plan:2018-01-17  dataKontrakt:
+z werkbon: 2/180536 opis po:TUR 630 MN X 2000  LMO
+z werkbon: 2/180536 datadostarSprz: 2018-01-19  data dostarProd: 2018-01-19  data plan:2017-12-22  dataKontrakt:2018-01-19
+z werkbon: 2/170007 opis po:TUR630X2000
+z werkbon: 2/170007 datadostarSprz: 2017-12-11  data dostarProd: 2018-01-22  data plan:2017-12-25  dataKontrakt:2018-01-31
+z werkbon: 14/222001751 opis po:ZAM - 222001 / 751 - OSLONY
+z werkbon: 14/222001751 datadostarSprz:   data dostarProd: 2018-01-29  data plan:2018-01-29  dataKontrakt:
+z werkbon: 4/731 opis po:ELAS 30038/43
+z werkbon: 4/731 datadostarSprz:   data dostarProd: 2018-01-31  data plan:2018-01-31  dataKontrakt:
+z werkbon: 4/735 opis po:SACASPZOO 106001/355
+z werkbon: 4/735 datadostarSprz:   data dostarProd: 2018-01-31  data plan:2018-01-31  dataKontrakt:
+z werkbon: 14/219005235 opis po:
+z werkbon: 14/219005235 datadostarSprz:   data dostarProd: 2018-01-31  data plan:2018-01-31  dataKontrakt:
+z werkbon: 4/736 opis po:SACASPZOO 106001/356
+z werkbon: 4/736 datadostarSprz:   data dostarProd: 2018-01-31  data plan:2018-01-31  dataKontrakt:
+z werkbon: 4/730 opis po:ELAS 30038/42
+z werkbon: 4/730 datadostarSprz:   data dostarProd: 2018-01-31  data plan:2018-01-31  dataKontrakt:
+z werkbon: 14/219005236 opis po:
+z werkbon: 14/219005236 datadostarSprz:   data dostarProd: 2018-01-31  data plan:2018-01-31  dataKontrakt:
+z werkbon: 14/2120211 opis po:
+z werkbon: 14/2120211 datadostarSprz:   data dostarProd: 2018-02-01  data plan:2018-02-01  dataKontrakt:
+z werkbon: 2/170554 opis po:CONTUR HD660 X 2000
+z werkbon: 2/170554 datadostarSprz: 2017-12-11  data dostarProd: 2018-02-08  data plan:2018-01-11  dataKontrakt:2018-02-12
+z werkbon: 14/203003206 opis po:
+z werkbon: 14/203003206 datadostarSprz:   data dostarProd: 2018-02-09  data plan:2018-02-09  dataKontrakt:
+z werkbon: 2/170549 opis po:TURSMN800  X 4000
+z werkbon: 2/170549 datadostarSprz: 2017-11-30  data dostarProd: 2018-02-12  data plan:2018-01-15  dataKontrakt:2018-02-20
+z werkbon: 2/170558 opis po:TUR MN 630  X 1000 - HACO FAT
+z werkbon: 2/170558 datadostarSprz: 2017-12-29  data dostarProd: 2018-02-12  data plan:2018-01-15  dataKontrakt:2018-02-12
+z werkbon: 14/2140841 opis po:
+z werkbon: 14/2140841 datadostarSprz:   data dostarProd: 2018-02-13  data plan:2018-02-13  dataKontrakt:
+z werkbon: 14/2050371 opis po:ZAM - 205037 / 1
+z werkbon: 14/2050371 datadostarSprz:   data dostarProd: 2018-02-19  data plan:2018-02-19  dataKontrakt:
+z werkbon: 14/21400988 opis po:ZAM - 214009 / 88
+z werkbon: 14/21400988 datadostarSprz:   data dostarProd: 2018-02-19  data plan:2018-02-19  dataKontrakt:
+z werkbon: 14/207002184 opis po:ZAM-207002 184
+z werkbon: 14/207002184 datadostarSprz:   data dostarProd: 2018-02-19  data plan:2018-02-19  dataKontrakt:
+z werkbon: 2/170503 opis po:TUR MN 630  X 3000 - HACO FAT
+z werkbon: 2/170503 datadostarSprz: 2017-12-15  data dostarProd: 2018-02-19  data plan:2018-01-22  dataKontrakt:2018-01-31
+z werkbon: 2/180500 opis po:CONTUR HD 1100 X 3000 -SAEILO
+z werkbon: 2/180500 datadostarSprz: 2018-01-10  data dostarProd: 2018-02-19  data plan:2018-01-22  dataKontrakt:2018-01-31
+z werkbon: 2/170559 opis po:TUR MN 560  X 2000 - DORMAC
+z werkbon: 2/170559 datadostarSprz: 2017-12-29  data dostarProd: 2018-02-20  data plan:2018-01-23  dataKontrakt:2018-01-31
+z werkbon: 2/170560 opis po:CONTURH66 X 2000 - SAEILO
+z werkbon: 2/170560 datadostarSprz: 2017-12-21  data dostarProd: 2018-02-20  data plan:2018-01-23  dataKontrakt:2018-02-27
+z werkbon: 2/170550 opis po:TUR1150 X 4000 - VOLMATEC CNC NIEMCY
+z werkbon: 2/170550 datadostarSprz: 2017-11-30  data dostarProd: 2018-02-20  data plan:2018-01-23  dataKontrakt:2018-02-28
+z werkbon: 2/180001 opis po:TUR630 X 2000 - WMS
+z werkbon: 2/180001 datadostarSprz: 2018-02-15  data dostarProd: 2018-02-21  data plan:2018-01-24  dataKontrakt:2018-02-28
+z werkbon: 14/212002254 opis po:
+z werkbon: 14/212002254 datadostarSprz:   data dostarProd: 2018-02-23  data plan:2018-02-23  dataKontrakt:
+z werkbon: 2/170701 opis po:FCT700 X 1600  SAEILO ( EX 160701 )
+z werkbon: 2/170701 datadostarSprz: 2017-11-10  data dostarProd: 2018-02-26  data plan:2018-01-29  dataKontrakt:2017-11-30
+z werkbon: 4/740 opis po:ELAS 30038/45
+z werkbon: 4/740 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 4/743 opis po:SACASPZOO 106001/358
+z werkbon: 4/743 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 4/733 opis po:KINGSLAND 15001/39 - 7/201712028/60
+z werkbon: 4/733 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 4/741 opis po:KFM-106002/29
+z werkbon: 4/741 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 2/180503 opis po:TUR MN 710A  X 2000 - HACO FAT
+z werkbon: 2/180503 datadostarSprz: 2018-01-15  data dostarProd: 2018-02-28  data plan:2018-01-31  dataKontrakt:2018-02-05
+z werkbon: 4/744 opis po:SACASPZOO 106001/359
+z werkbon: 4/744 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 14/212002250 opis po:ZAM-212002/250
+z werkbon: 14/212002250 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 2/170520 opis po:CDM50CNC
+z werkbon: 2/170520 datadostarSprz: 2017-08-31  data dostarProd: 2018-02-28  data plan:2017-11-24  dataKontrakt:2017-08-31
+z werkbon: 4/734 opis po:KINGSLAND 15001/40 - 7/201712028/75
+z werkbon: 4/734 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 4/742 opis po:KFM-106002/33
+z werkbon: 4/742 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 4/745 opis po:SACASPZOO 106001/360
+z werkbon: 4/745 datadostarSprz:   data dostarProd: 2018-02-28  data plan:2018-02-28  dataKontrakt:
+z werkbon: 14/2260139 opis po:ZAM-212002/242
+z werkbon: 14/2260139 datadostarSprz:   data dostarProd: 2018-03-01  data plan:2018-03-01  dataKontrakt:
+z werkbon: 14/20500324 opis po:ZAM.205003/24
+z werkbon: 14/20500324 datadostarSprz:   data dostarProd: 2018-03-02  data plan:2018-03-02  dataKontrakt:
+z werkbon: 14/219005238 opis po:
+z werkbon: 14/219005238 datadostarSprz:   data dostarProd: 2018-03-05  data plan:2018-03-05  dataKontrakt:
+z werkbon: 14/219005241 opis po:ZAM - 219005 / 241
+z werkbon: 14/219005241 datadostarSprz:   data dostarProd: 2018-03-05  data plan:2018-03-05  dataKontrakt:
+z werkbon: 2/180526 opis po:TUR SMN 1100 X 4000 - ITALY
+z werkbon: 2/180526 datadostarSprz: 2018-03-09  data dostarProd: 2018-03-09  data plan:2018-02-09  dataKontrakt:2018-03-09
+z werkbon: 14/203003208 opis po:ZAM - 203003 / 208
+z werkbon: 14/203003208 datadostarSprz:   data dostarProd: 2018-03-09  data plan:2018-03-09  dataKontrakt:
+z werkbon: 2/170530 opis po:TURSMN1100X8000
+z werkbon: 2/170530 datadostarSprz: 2018-02-14  data dostarProd: 2018-03-12  data plan:2018-02-07  dataKontrakt:2018-02-14
+z werkbon: 2/180703 opis po:FCT700A X 2100
+z werkbon: 2/180703 datadostarSprz: 2018-04-13  data dostarProd: 2018-03-15  data plan:2018-02-15  dataKontrakt:2018-03-30
+z werkbon: 2/150577 opis po:
+z werkbon: 2/150577 datadostarSprz: 2016-03-15  data dostarProd: 2018-03-15  data plan:2018-02-15  dataKontrakt:2016-06-07
+z werkbon: 2/180501 opis po:TUR SMN 930 X 2000  ROSJA ( EX 150577 )
+z werkbon: 2/180501 datadostarSprz: 2018-03-15  data dostarProd: 2018-03-15  data plan:2018-02-15  dataKontrakt:2018-03-30
+z werkbon: 4/737 opis po:KFM-106002/30
+z werkbon: 4/737 datadostarSprz:   data dostarProd: 2018-03-16  data plan:2018-03-16  dataKontrakt:
+z werkbon: 4/746 opis po:BLISS BRET 106001/35
+z werkbon: 4/746 datadostarSprz:   data dostarProd: 2018-03-19  data plan:2018-03-19  dataKontrakt:
+z werkbon: 2/180504 opis po:TUR1350MN X 6000 WMS ( EX 160541 )
+z werkbon: 2/180504 datadostarSprz: 2018-01-31  data dostarProd: 2018-03-22  data plan:2018-02-22  dataKontrakt:2018-02-28
+z werkbon: 2/180521 opis po:TUR MN 630 X 3000 TOOLMEX
+z werkbon: 2/180521 datadostarSprz: 2018-03-23  data dostarProd: 2018-03-23  data plan:2018-02-23  dataKontrakt:2018-03-16
+z werkbon: 2/180522 opis po:TUR MN 630 X 3000 TOOLMEX
+z werkbon: 2/180522 datadostarSprz: 2018-03-23  data dostarProd: 2018-03-23  data plan:2018-02-23  dataKontrakt:2018-03-16
+z werkbon: 2/170803 opis po:FTM 165   X 1000 WANKER
+z werkbon: 2/170803 datadostarSprz: 2017-12-29  data dostarProd: 2018-03-26  data plan:2018-02-26  dataKontrakt:2018-01-31
+z werkbon: 14/21400989 opis po:ZAM - 214009 / 89
+z werkbon: 14/21400989 datadostarSprz:   data dostarProd: 2018-03-26  data plan:2018-03-26  dataKontrakt:
+z werkbon: 2/180502 opis po:TUR MN 630  X 1000 - FRANZ MOSER
+z werkbon: 2/180502 datadostarSprz: 2018-01-15  data dostarProd: 2018-03-30  data plan:2018-03-02  dataKontrakt:2018-01-31
+z werkbon: 2/170557 opis po:TUR SMN 1100 X 5000
+z werkbon: 2/170557 datadostarSprz: 2018-03-30  data dostarProd: 2018-03-30  data plan:2018-03-02  dataKontrakt:2018-04-30
+z werkbon: 2/180514 opis po:TUR MN 630 X 2000 MAGAZYN
+z werkbon: 2/180514 datadostarSprz: 2018-03-30  data dostarProd: 2018-03-30  data plan:2018-03-02  dataKontrakt:2018-03-30
+z werkbon: 2/180704 opis po:FCT700 X 1100-VOLMATEC ( EX 140705 )
+z werkbon: 2/180704 datadostarSprz: 2018-03-30  data dostarProd: 2018-03-30  data plan:2018-02-28  dataKontrakt:2018-03-30
+z werkbon: 2/170555 opis po:TUR SMN 800 X 4000
+z werkbon: 2/170555 datadostarSprz: 2018-01-31  data dostarProd: 2018-03-30  data plan:2018-03-02  dataKontrakt:2018-02-28
+z werkbon: 2/180508 opis po:CONTUR HDS 830 X 3000 CAZENEUVE
+z werkbon: 2/180508 datadostarSprz: 2018-04-10  data dostarProd: 2018-03-31  data plan:2018-02-28  dataKontrakt:2018-04-30
+z werkbon: 14/2200393 opis po:ZAM - 220039 / 3
+z werkbon: 14/2200393 datadostarSprz:   data dostarProd: 2018-04-04  data plan:2018-04-04  dataKontrakt:
+z werkbon: 2/180519 opis po:TUR MN 710 A X 4000 DORMAC
+z werkbon: 2/180519 datadostarSprz: 2018-04-02  data dostarProd: 2018-04-05  data plan:2018-03-08  dataKontrakt:2018-03-30
+z werkbon: 2/180524 opis po:TUR MN 630 X 3000 GERMOND
+z werkbon: 2/180524 datadostarSprz: 2018-04-02  data dostarProd: 2018-04-12  data plan:2018-03-15  dataKontrakt:2018-04-16
+z werkbon: 2/180003 opis po:TUR710 X 4000 - WMS
+z werkbon: 2/180003 datadostarSprz: 2018-04-16  data dostarProd: 2018-04-16  data plan:2018-03-12  dataKontrakt:2018-04-16
+z werkbon: 2/180507 opis po:TUR1550MN X 2000 CAZENEUVE
+z werkbon: 2/180507 datadostarSprz: 2018-02-28  data dostarProd: 2018-04-20  data plan:2018-03-23  dataKontrakt:2018-03-20
+z werkbon: 4/738 opis po:KFM-106002/31
+z werkbon: 4/738 datadostarSprz:   data dostarProd: 2018-04-20  data plan:2018-04-20  dataKontrakt:
+z werkbon: 2/180523 opis po:TUR SMN 930 X 4000-USA
+z werkbon: 2/180523 datadostarSprz: 2018-04-19  data dostarProd: 2018-04-20  data plan:2018-03-23  dataKontrakt:2018-04-19
+z werkbon: 2/170556 opis po:TUR SMN 930 X 4000
+z werkbon: 2/170556 datadostarSprz: 2018-01-31  data dostarProd: 2018-04-23  data plan:2018-03-26  dataKontrakt:2018-02-28
+z werkbon: 2/180527 opis po:CONTUR HD660 X 3000-CAZENEUVE
+z werkbon: 2/180527 datadostarSprz: 2018-04-30  data dostarProd: 2018-04-27  data plan:2018-03-30  dataKontrakt:2018-05-31
+z werkbon: 6/180525 opis po:TUR MN 630P X 3000
+z werkbon: 6/180525 datadostarSprz: 2018-03-30  data dostarProd: 2018-04-30  data plan:2018-04-02  dataKontrakt:2018-03-30
+z werkbon: 2/180512 opis po:TURSMN930 X 3000 TURCJA
+z werkbon: 2/180512 datadostarSprz: 2018-05-15  data dostarProd: 2018-05-15  data plan:2018-04-15  dataKontrakt:2018-05-31
+z werkbon: 2/180528 opis po:KOMPONENT K 660 X 2000 - CAZENEUVE
+z werkbon: 2/180528 datadostarSprz: 2018-05-15  data dostarProd: 2018-05-15  data plan:2018-04-15  dataKontrakt:2018-05-31
+z werkbon: 4/739 opis po:KFM-106002/32
+z werkbon: 4/739 datadostarSprz:   data dostarProd: 2018-05-17  data plan:2018-05-17  dataKontrakt:
+z werkbon: 2/180530 opis po:TURMN800  X 2000 -VOLZ MASCHINEN.
+z werkbon: 2/180530 datadostarSprz: 2018-05-21  data dostarProd: 2018-05-21  data plan:2018-04-20  dataKontrakt:2018-05-31
+z werkbon: 2/180538 opis po:CONTURH66 X 2000 - SAEILO
+z werkbon: 2/180538 datadostarSprz: 2018-05-17  data dostarProd: 2018-05-21  data plan:2018-04-23  dataKontrakt:2018-05-31
+z werkbon: 6/180505 opis po:TUR MN 560 X 1000
+z werkbon: 6/180505 datadostarSprz: 2018-01-31  data dostarProd: 2018-05-25  data plan:2018-04-27  dataKontrakt:2018-01-31
+z werkbon: 2/180529 opis po:TUR SMN 1100 X 4000-VOLMATEC
+z werkbon: 2/180529 datadostarSprz: 2018-05-10  data dostarProd: 2018-05-28  data plan:2018-04-30  dataKontrakt:2018-05-31
+z werkbon: 2/180005 opis po:TUR 630 X 1000
+z werkbon: 2/180005 datadostarSprz: 2018-05-31  data dostarProd: 2018-06-05  data plan:2018-05-08  dataKontrakt:2018-09-28
+z werkbon: 2/180004 opis po:TUR 630 X 1000
+z werkbon: 2/180004 datadostarSprz: 2018-05-31  data dostarProd: 2018-06-05  data plan:2018-05-08  dataKontrakt:2018-09-28
+z werkbon: 6/180515 opis po:TUR MN 710 X 3000 MAGAZYN
+z werkbon: 6/180515 datadostarSprz: 2018-02-28  data dostarProd: 2018-06-11  data plan:2018-05-14  dataKontrakt:2018-02-28
+z werkbon: 2/180537 opis po:CONTURH66 X 2000 - SAEILO
+z werkbon: 2/180537 datadostarSprz: 2018-06-15  data dostarProd: 2018-06-15  data plan:2018-05-18  dataKontrakt:2018-06-29
+z werkbon: 6/180511 opis po:CONTUR HD 720 X 3000  MAGAZYN
+z werkbon: 6/180511 datadostarSprz: 2018-01-31  data dostarProd: 2018-07-02  data plan:2018-06-04  dataKontrakt:2018-01-31
+z werkbon: 6/180002 opis po:TUR560 X 2000- MAGAZYN
+z werkbon: 6/180002 datadostarSprz: 2018-01-31  data dostarProd: 2018-07-09  data plan:2018-06-11  dataKontrakt:2018-01-31
+z werkbon: 6/180506 opis po:TUR MN 630P X 2000
+z werkbon: 6/180506 datadostarSprz: 2018-01-30  data dostarProd: 2018-07-16  data plan:2018-06-18  dataKontrakt:2018-01-30
+z werkbon: 6/160561 opis po:TUR 630 SC X 2000 -MAGAZYN
+z werkbon: 6/160561 datadostarSprz:   data dostarProd: 2018-07-23  data plan:2018-06-25  dataKontrakt:
+z werkbon: 6/160504 opis po:TUR1550MNX8000
+z werkbon: 6/160504 datadostarSprz:   data dostarProd: 2018-07-27  data plan:2018-06-29  dataKontrakt:
+z werkbon: 6/180533 opis po:CONTUR HD660 X 2000 - MAGAZYN
+z werkbon: 6/180533 datadostarSprz: 2018-05-31  data dostarProd: 2018-08-27  data plan:2018-07-09  dataKontrakt:2018-05-31
+z werkbon: 6/180509 opis po:TUR1150 X 4000 - MAGAZYN
+z werkbon: 6/180509 datadostarSprz: 2018-01-30  data dostarProd: 2018-09-03  data plan:2018-07-16  dataKontrakt:2018-01-30
+z werkbon: 6/180513 opis po:TURSMN1100X 3000 MAGAZYN
+z werkbon: 6/180513 datadostarSprz: 2018-01-31  data dostarProd: 2018-09-10  data plan:2018-07-23  dataKontrakt:2018-01-31
+z werkbon: 2/180532 opis po:TUR SMN 930 X 4000-WYSTAWA GERMOND
+z werkbon: 2/180532 datadostarSprz: 2018-09-15  data dostarProd: 2018-09-15  data plan:2018-08-15  dataKontrakt:2018-09-15
+Blad SQL w tworzeniu harmonogramu
+java.sql.SQLException: createStatement() is called on closed connection
+	at org.mariadb.jdbc.MariaDbConnection.checkConnection(MariaDbConnection.java:236)
+	at org.mariadb.jdbc.MariaDbConnection.createStatement(MariaDbConnection.java:178)
+	at PDF.PDF_ProjectSchedule.checkProjectSchedule(PDF_ProjectSchedule.java:530)
+	at PDF.PDF_ProjectSchedule.<init>(PDF_ProjectSchedule.java:31)
+	at WB.MainProgramWindowStart.main(MainProgramWindowStart.java:150)
+0/180540
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '0/180540%' and besteld <> 0 and leverancier = 102  
+0/180539
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '0/180539%' and besteld <> 0 and leverancier = 102  
+0/180520
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '0/180520%' and besteld <> 0 and leverancier = 102  
+0/180900
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '0/180900%' and besteld <> 0 and leverancier = 102  
+0/180531
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '0/180531%' and besteld <> 0 and leverancier = 102  
+15/58
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '15/58%' and besteld <> 0 and leverancier = 102  
+4/624
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/624%' and besteld <> 0 and leverancier = 102  
+15/59
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '15/59%' and besteld <> 0 and leverancier = 102  
+3/120
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '3/120%' and besteld <> 0 and leverancier = 102  
+4/645
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/645%' and besteld <> 0 and leverancier = 102  
+4/648
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/648%' and besteld <> 0 and leverancier = 102  
+4/647
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/647%' and besteld <> 0 and leverancier = 102  
+14/2050174
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/2050174%' and besteld <> 0 and leverancier = 102  
+14/21903411
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/21903411%' and besteld <> 0 and leverancier = 102  
+4/2017
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/2017%' and besteld <> 0 and leverancier = 102  
+4/677
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/677%' and besteld <> 0 and leverancier = 102  
+4/676
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/676%' and besteld <> 0 and leverancier = 102  
+4/679
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/679%' and besteld <> 0 and leverancier = 102  
+14/160800
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/160800%' and besteld <> 0 and leverancier = 102  
+14/160801
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/160801%' and besteld <> 0 and leverancier = 102  
+4/695
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/695%' and besteld <> 0 and leverancier = 102  
+4/699
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/699%' and besteld <> 0 and leverancier = 102  
+4/691
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/691%' and besteld <> 0 and leverancier = 102  
+4/704
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/704%' and besteld <> 0 and leverancier = 102  
+2/16053106
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/16053106%' and besteld <> 0 and leverancier = 102  
+4/700
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/700%' and besteld <> 0 and leverancier = 102  
+14/21601554
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/21601554%' and besteld <> 0 and leverancier = 102  
+4/703
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/703%' and besteld <> 0 and leverancier = 102  
+14/2050178
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/2050178%' and besteld <> 0 and leverancier = 102  
+4/714
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/714%' and besteld <> 0 and leverancier = 102  
+14/220002344
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/220002344%' and besteld <> 0 and leverancier = 102  
+2/170520
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/170520%' and besteld <> 0 and leverancier = 102  
+14/220002350
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/220002350%' and besteld <> 0 and leverancier = 102  
+2/17052020
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/17052020%' and besteld <> 0 and leverancier = 102  
+4/713
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/713%' and besteld <> 0 and leverancier = 102  
+14/220002352
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/220002352%' and besteld <> 0 and leverancier = 102  
+14/130584
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/130584%' and besteld <> 0 and leverancier = 102  
+14/2180146
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/2180146%' and besteld <> 0 and leverancier = 102  
+2/16051804
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/16051804%' and besteld <> 0 and leverancier = 102  
+4/721
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/721%' and besteld <> 0 and leverancier = 102  
+4/720
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/720%' and besteld <> 0 and leverancier = 102  
+14/21800160
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/21800160%' and besteld <> 0 and leverancier = 102  
+4/718
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/718%' and besteld <> 0 and leverancier = 102  
+2/170801
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/170801%' and besteld <> 0 and leverancier = 102  
+4/719
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/719%' and besteld <> 0 and leverancier = 102  
+14/20200810
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/20200810%' and besteld <> 0 and leverancier = 102  
+4/729
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/729%' and besteld <> 0 and leverancier = 102  
+2/170562
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/180536%' or projectnummer like '2/170562%'  and besteld <> 0 and leverancier = 102  
+2/170007
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/170007%' and besteld <> 0 and leverancier = 102  
+5/15530
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '5/15530%' and besteld <> 0 and leverancier = 102  
+14/21900430
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/21900430%' and besteld <> 0 and leverancier = 102  
+497/574
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '497/574%' and besteld <> 0 and leverancier = 102  
+497/575
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '497/575%' and besteld <> 0 and leverancier = 102  
+497/573
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '497/573%' and besteld <> 0 and leverancier = 102  
+10/2017
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '10/2017%' and besteld <> 0 and leverancier = 102  
+36/2017
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '36/2017%' and besteld <> 0 and leverancier = 102  
+497/576
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '497/576%' and besteld <> 0 and leverancier = 102  
+34/2017
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '34/2017%' and besteld <> 0 and leverancier = 102  
+39/2017
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '39/2017%' and besteld <> 0 and leverancier = 102  
+32/2017
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '32/2017%' and besteld <> 0 and leverancier = 102  
+497/577
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '497/577%' and besteld <> 0 and leverancier = 102  
+497/578
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '497/578%' and besteld <> 0 and leverancier = 102  
+497/571
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '497/571%' and besteld <> 0 and leverancier = 102  
+4/723
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/723%' and besteld <> 0 and leverancier = 102  
+4/722
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/722%' and besteld <> 0 and leverancier = 102  
+14/21400986
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/21400986%' and besteld <> 0 and leverancier = 102  
+4/725
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/725%' and besteld <> 0 and leverancier = 102  
+14/2070105
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '14/2070105%' and besteld <> 0 and leverancier = 102  
+2/170554
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/170554%' and besteld <> 0 and leverancier = 102  
+4/726
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/726%' and besteld <> 0 and leverancier = 102  
+4/727
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/727%' and besteld <> 0 and leverancier = 102  
+4/728
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/728%' and besteld <> 0 and leverancier = 102  
+2/170558
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/170558%' and besteld <> 0 and leverancier = 102  
+4/716
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '4/716%' and besteld <> 0 and leverancier = 102  
+2/170549
+Select storenotesdetail.artikelcode, artikel_algemeen.omschrijving from storenotesdetail join artikel_algemeen on storenotesdetail.artikelcode = artikel_algemeen.artikelcode where projectnummer like '2/170549%' and besteld <> 0 and leverancier = 102  

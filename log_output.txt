@@ -1,0 +1,8 @@
+08:49
+Select nrMaszyny, opis, klient, dataprodukcji, dataKontrakt, dataWysylkiSprzedazy, typ from calendar where dataKontrakt < '2017-03-01'   and (nrMaszyny like '2/%' or nrMaszyny like '6/%') and klient <> 'MAGAZYN' and typ = 'KONW' and Zakonczone = 0 and Wyslano = 0 order by dataKontrakt
+Select nrMaszyny, opis, klient, dataprodukcji, dataKontrakt, dataWysylkiSprzedazy, typ from calendar where dataKontrakt < '2017-03-01'   and (nrMaszyny like '2/%' or nrMaszyny like '6/%') and klient <> 'MAGAZYN' and typ = '560-710' and Zakonczone = 0 and Wyslano = 0 order by dataKontrakt
+Select nrMaszyny, opis, klient, dataprodukcji, dataKontrakt, dataWysylkiSprzedazy, typ from calendar where dataKontrakt < '2017-03-01'   and (nrMaszyny like '2/%' or nrMaszyny like '6/%') and klient <> 'MAGAZYN' and typ = '800' and Zakonczone = 0 and Wyslano = 0 order by dataKontrakt
+2/170538      800
+2017-10-16  2017-10-16  
+2/160564   2016-12-15   800
+2017-04-21  2016-11-30  2016-12-15
